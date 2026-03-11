@@ -18,7 +18,7 @@ Getting NixOS to boot on this board is normally a pain. This flake handles the d
 **Build the image:**
 *(Make sure `rockpis-bootloader.bin` stays tracked by git if you edit the flake locally!)*
 ```bash
-git clone [https://github.com/YOUR-USERNAME/nixos-rockpi-s.git](https://github.com/YOUR-USERNAME/nixos-rockpi-s.git)
+git clone [https://github.com/invaliddayta/nixos-rockpi-s.git](https://github.com/invaliddayta/nixos-rockpi-s.git)
 cd nixos-rockpi-s
 nix build .#default
 ```
