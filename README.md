@@ -29,7 +29,6 @@ sudo dd if=result/sd-image/*.img of=/dev/sdX bs=4M status=progress
 ```
 
 **Log in:**
-* User: `nixos` | Password: `nixos` (passwordless sudo)
 * User: `root`  | Password: *(empty)*
 
 ---
