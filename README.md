@@ -12,6 +12,7 @@ Getting NixOS to boot on this board is normally a pain. This flake handles the d
 * **Serial Console:** Forces the kernel to use Rockchip's native `1.5M` baud rate.
 
 ---
+<img width="1680" height="556" alt="image" src="https://github.com/user-attachments/assets/4959b298-c1d2-4277-a1f4-76d26341abd0" />
 
 ## 1. Quick Start
 
